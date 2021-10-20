@@ -1,0 +1,3 @@
+I have created one cnn model followed by ann model for prediction Dip, Rake, Strike angle. Activation function Relu for hidden layer and Softmax for output layer work very well.
+As the data is one directional so I used conv1d layer.
+finally I achieved 95% accuracy.
